@@ -1,0 +1,27 @@
+name: DogeCraft
+main: net.waals.dogecraft.DogeCraft
+version: 0.1
+api-version: 1.13
+depend: [Vault, MultiLineAPI, HolographicDisplays, LuckPerms, dynmap]
+permissions:
+  dogecraft.donor: [donation]
+commands:
+  balance:
+  menu:
+  deposit:
+  bal:
+  money:
+  withdraw:
+  pay:
+  wild:
+  rtp:
+  back:
+  tpa:
+  tpaccept:
+  tpdeny:
+  spawn:
+  ref:
+  dogecoin:
+  removeshopcosmetics:
+  lottery:
+  donate:

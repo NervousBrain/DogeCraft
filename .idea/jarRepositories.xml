@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="clojars.org" />
+      <option name="name" value="clojars.org" />
+      <option name="url" value="https://repo.clojars.org" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="everything" />
+      <option name="name" value="everything" />
+      <option name="url" value="https://repo.citizensnpcs.co/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="codemc-repo" />
+      <option name="name" value="codemc-repo" />
+      <option name="url" value="https://repo.codemc.io/repository/maven-public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="bitcoinj-release" />
+      <option name="name" value="bitcoinj-release" />
+      <option name="url" value="http://distribution.bitcoinj.googlecode.com/git/releases" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jcenter" />
+      <option name="name" value="jcenter-bintray" />
+      <option name="url" value="https://jcenter.bintray.com" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="https://repo.maven.apache.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="frost-repo" />
+      <option name="name" value="frost-repo" />
+      <option name="url" value="https://repo.frostalf.net/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="SilkSpawners-Repo" />
+      <option name="name" value="SilkSpawners-Repo" />
+      <option name="url" value="https://repo.dustplanet.de/artifactory/libs-release-local" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jitpack.io" />
+      <option name="name" value="jitpack.io" />
+      <option name="url" value="https://jitpack.io" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="Scarsz-Nexus" />
+      <option name="name" value="Scarsz-Nexus" />
+      <option name="url" value="https://nexus.scarsz.me/content/groups/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="spigotmc-repo" />
+      <option name="name" value="spigotmc-repo" />
+      <option name="url" value="https://hub.spigotmc.org/nexus/content/repositories/snapshots/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="clout_team" />
+      <option name="name" value="clout_team" />
+      <option name="url" value="http://app.clout-team.com:8081/repository/clout_team/" />
+    </remote-repository>
+  </component>
+</project>
